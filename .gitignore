@@ -1,0 +1,7 @@
+OrganizingContainersOfBalls.sln
+.git/
+.vs/
+Debug/
+OrganizingContainersOfBalls/Debug
+OrganizingContainersOfBalls/*.vcxproj
+OrganizingContainersOfBalls/*.vcxproj.*
